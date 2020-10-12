@@ -4,18 +4,18 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Color(0xFFEC5161),
-        centerTitle: true,
-        title: Text(
-          'HomePage',
-        ),
-      ),
-      body: Center(
-        child: Text(
-          "HomePage",
-          style: Theme.of(context).textTheme.headline4,
-        ),
+      backgroundColor: Colors.white,
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Image.network('https://i.imgur.com/st9GYVW.png'),
+          Center(
+            child: Text(
+              'Welcome',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+          ),
+        ],
       ),
     );
   }
