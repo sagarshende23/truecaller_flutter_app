@@ -2,13 +2,6 @@
 
 ![Cover image](screenshots/flutter_truecaller.png)
 
-[![](https://img.shields.io/badge/100%25-flutter-blue)](https://flutter.dev)
-[![](https://img.shields.io/badge/based%20on-desmos-orange)](https://desmos.network)
-[![CircleCI](https://img.shields.io/circleci/build/github/desmos-labs/mooncake)](https://app.circleci.com/github/desmos-labs/mooncake/pipelines)
-[![Codecov](https://img.shields.io/codecov/c/github/desmos-labs/mooncake)](https://codecov.io/gh/desmos-labs/mooncake)
-[![](https://img.shields.io/badge/compatible-Android-green)](https://desmos.network)
-[![](https://img.shields.io/badge/compatible-iOS-lightgray)](https://desmos.network)
-<h1 align="center">Truecaller in Flutter App</h1>
 
 </h1>
 <p align="center">
@@ -32,11 +25,6 @@
 </p>
 
 [![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
-
-
-  
-
-
 
 
 ## 🖥 Flutter Tutorial
